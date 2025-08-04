@@ -2,7 +2,7 @@
 
 Bu proje, HTML ve Tailwind CSS kullanılarak oluşturulmuş bir Landing Page projesidir. BMW markasının modelleri, kayıt formu ve özel teklifleri bulunmaktadır.
 
-[Siteyi Görüntüle](https://eraykiyici.github.io/blog-bootstrap/)
+[Siteyi Görüntüle](https://eraykiyici.github.io/landing-page/)
 
 ## Dosyalar
 - `index.html` → Ana sayfa HTML yapısı  
